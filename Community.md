@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Vineet Sirohi</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/vineet1202</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td></td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal Institute of Technology</td>
+  </tr>
+</table>
+
